@@ -1,0 +1,23 @@
+
+BILL
+Date: 23-11-2022
+Time: 20:22:44
+Cashier ID: EP1
+Cashier Name: ABC
+Customer ID: CT1
+Customer Name: XYZ
+Customer Phone Number: 1234567
+
++----------+------------------------------+----------+-----+----------+----------+--------+
+|PROD_ID   |PROD_NAME                     |UNIT_COST |COUNT|Unit      |TOTAL_COST|GST     |
++----------+------------------------------+----------+-----+----------+----------+--------+
+|PR1       |APPLE                         |250.0     |2    |1_KG      |500.0     |0.0     |
+|PR11      |POTATO                        |25.0      |1    |1_KG      |25.0      |0.0     |
+|PR21      |MILK-1L_TETRA_PAK             |60.0      |2    |1_PIECE   |120.0     |0.0     |
+|PR27      |TURMERIC-250_GM               |75.0      |1    |1_PIECE   |75.0      |3.8     |
++----------+------------------------------+----------+-----+----------+----------+--------+
+
+Total: Rs. 720.0
+GST: Rs. 3.8
+Discount: Rs. 72.0
+Grand Total: Rs. 651.8

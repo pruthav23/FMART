@@ -1,0 +1,12 @@
+
+        ------------------------------
+        Employee ID: EP1
+        Employee Name: ABC
+        Month: APR_22
+        ------------------------------
+        Base salary: 40000.0
+        Total Sales: 0.0
+        Commission: 0.0
+        Employee of the month bonus: 0.0
+        Total Salary: 40000.0
+        

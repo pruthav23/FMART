@@ -1,0 +1,12 @@
+
+        ------------------------------
+        Employee ID: EP1
+        Employee Name: ABC
+        Month: NOV_22
+        ------------------------------
+        Base salary: 40000.0
+        Total Sales: 651.8
+        Commission: 13.036
+        Employee of the month bonus: 10000.0
+        Total Salary: 50664.836
+        
